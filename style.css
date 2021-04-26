@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  
   width:1160px;
   margin: 0 auto;
 }
@@ -21,7 +21,6 @@ body {
 }
 
 #textbox {
-  background-color: red;
   width: 760px;
   margin-left: 300px;
   margin-top: 10px;
@@ -37,7 +36,6 @@ p {
 }
 
 #pagemiddle {
-  background-color: orange;
   margin-left: 100px;
   margin-bottom: 30px;
 }
